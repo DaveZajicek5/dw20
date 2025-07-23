@@ -1,0 +1,16 @@
+filename = 'NotableBubbleText-1.21.1-4.0.2.jar'
+name = 'Notable Bubble Text (NBT)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '79f50e8e9a90f68fa773c44c4dac1aa230e3526f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6307058
+project-id = 938890

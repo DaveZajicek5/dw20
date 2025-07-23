@@ -1,0 +1,16 @@
+filename = 'projectvibrantjourneys-1.21.1-7.0.7.jar'
+name = 'Project: Vibrant Journeys'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0c8c0fb3cf24e3deafa169c43321c64e48f5377'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6424348
+project-id = 300297

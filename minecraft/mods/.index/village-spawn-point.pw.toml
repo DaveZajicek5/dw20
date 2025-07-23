@@ -1,0 +1,16 @@
+filename = 'villagespawnpoint-1.21.1-4.6.jar'
+name = 'Village Spawn Point'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a4139b691cae6311c2888c08948b0866845d1297'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6429245
+project-id = 347381

@@ -1,0 +1,16 @@
+filename = 'particle_core-0.2.6+1.21+neoforge.jar'
+name = 'Particle Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9328bf90e73071c3239197d5133ef7f1eb2f8269'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6427563
+project-id = 985426

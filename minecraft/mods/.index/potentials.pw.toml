@@ -1,0 +1,16 @@
+filename = 'potentials-neoforge-1.21-0.6.2.jar'
+name = 'Potentials'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '794cd7b48542e65778d1c88e2faf2ff5c8636aac'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6360397
+project-id = 1165185

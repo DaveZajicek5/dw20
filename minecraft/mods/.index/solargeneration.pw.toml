@@ -1,0 +1,16 @@
+filename = 'SolarGeneration-1.21-7.0.1.jar'
+name = 'SolarGeneration'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77bdaa80196e1c53d2a676bacea4975eb955d099'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6013065
+project-id = 336538

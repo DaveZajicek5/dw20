@@ -1,0 +1,16 @@
+filename = 'chalk-1.6.9.jar'
+name = 'Chalk'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '165e9eb71043d8aef4512224525b0c3edbefcd9a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5979986
+project-id = 533748

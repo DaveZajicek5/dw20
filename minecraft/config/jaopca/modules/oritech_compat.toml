@@ -1,0 +1,9 @@
+[general]
+	#The material blacklist of this module.
+	materialBlacklist = []
+
+[recipes]
+	#The materials that should not have pulverizer to dust recipes added.
+	pulverizerToDustMaterialBlacklist = []
+	#The materials that should not have fragment forge to dust recipes added.
+	grinderToDustMaterialBlacklist = []

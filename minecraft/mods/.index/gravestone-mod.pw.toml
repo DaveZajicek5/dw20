@@ -1,0 +1,16 @@
+filename = 'gravestone-neoforge-1.21.1-1.0.24.jar'
+name = 'GraveStone Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1b4ef0dda54f0f3df45dabd49e61c81a46b01eb0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5794085
+project-id = 238551

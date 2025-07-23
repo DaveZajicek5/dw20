@@ -1,0 +1,16 @@
+filename = 'ForgeConfigAPIPort-v21.1.3-1.21.1-NeoForge.jar'
+name = 'Forge Config API Port'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ce474442a15c3cbe587e32a9080509b23414db2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5982385
+project-id = 547434

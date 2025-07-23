@@ -1,0 +1,13 @@
+{
+  "clientId": 1284603926225752125,
+  "enabled": true,
+  "screenEvent": true,
+  "clientJoinEvent": false,
+  "logState": true,
+  "buttons": [
+    {
+      "label": "Download the FTB App",
+      "url": "https://go.ftb.team/app"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+filename = 'refinedstorage-mekanism-integration-1.0.0.jar'
+name = 'Refined Storage - Mekanism Integration'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1a9cf54bf01bd200ed36d40b1a2af7ce665dcfb0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6359071
+project-id = 1230504

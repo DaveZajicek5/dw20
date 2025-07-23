@@ -1,0 +1,16 @@
+filename = 'bagofyurting-1.21-5.0.0.0.jar'
+name = 'Bag of Yurting'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a48b76a8b4f0e75e862f26bff9c330ebb22aec1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5533168
+project-id = 381068

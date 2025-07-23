@@ -1,0 +1,7 @@
+[general]
+	#The material blacklist of this module.
+	materialBlacklist = ["uraninite", "aluminum", "iesnium", "dark_gem"]
+
+[tags]
+	#Should the module add tier tags for alchemical sulfurs.
+	addTierTags = false

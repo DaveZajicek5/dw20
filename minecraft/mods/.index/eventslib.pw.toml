@@ -1,0 +1,16 @@
+filename = 'eventslib-1.0.56.jar'
+name = 'EventsLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ab67b812a0c45d18007c29f359941f449a4f5b09'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6063460
+project-id = 1122002

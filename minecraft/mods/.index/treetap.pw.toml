@@ -1,0 +1,16 @@
+filename = 'treetap-1.21.1-0.4.3.jar'
+name = 'Tree Tap'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '910d9b8c7e02d64af3d2c498d6b52293bc2501ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6026105
+project-id = 927874

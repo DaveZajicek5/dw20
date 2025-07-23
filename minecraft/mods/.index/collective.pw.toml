@@ -1,0 +1,16 @@
+filename = 'collective-1.21.1-8.3.jar'
+name = 'Collective'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ac856f7552dae7fa65e9616e2e33f89cd7cbbab6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6429221
+project-id = 342584

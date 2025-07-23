@@ -1,0 +1,16 @@
+filename = 'Statues-1.21.1-0.4.16.jar'
+name = 'Statues'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6d3ea711b427cdae71f110cbdc641a7df87fb284'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6036375
+project-id = 253172

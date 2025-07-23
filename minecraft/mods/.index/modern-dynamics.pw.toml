@@ -1,0 +1,16 @@
+filename = 'Modern-Dynamics-0.9.4.jar'
+name = 'Modern Dynamics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8f7ad788d234205237f8aa4270af1fb10dd01f70'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6063462
+project-id = 552758

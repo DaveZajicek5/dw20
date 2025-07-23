@@ -1,0 +1,16 @@
+filename = 'GeOre_Nouveau-1.21.1-0.5.3.jar'
+name = 'GeOre Nouveau'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0a8a26b6893f835af74b014bf2a86411111783bc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6264588
+project-id = 667803

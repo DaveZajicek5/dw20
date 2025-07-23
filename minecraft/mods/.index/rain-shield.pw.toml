@@ -1,0 +1,16 @@
+filename = 'RainShield-1.21.1-2.0.1.jar'
+name = 'Rain Shield'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c350ffe80747d31636e51fe50e33bd8b9eb4561a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5729705
+project-id = 573156

@@ -1,0 +1,16 @@
+filename = 'OpenBlocksTrophies-1.21-5.1.6.jar'
+name = 'OpenBlocks Trophies'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3acedce3ffc2c291e526fb672899c40fcdc9bf42'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6111474
+project-id = 683319

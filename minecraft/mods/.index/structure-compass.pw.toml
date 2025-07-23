@@ -1,0 +1,16 @@
+filename = 'StructureCompass-1.21.1-4.0.1.jar'
+name = 'Structure Compass'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6c8c5c789e5baac4ab82717ddf4c314266d8a47f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5774341
+project-id = 319598

@@ -1,0 +1,16 @@
+filename = 'comforts-neoforge-9.0.3+1.21.1.jar'
+name = 'Comforts (Fabric/Forge/Quilt)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7740cb649102deecaad23a139205c13e7da4b74c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5821146
+project-id = 276951

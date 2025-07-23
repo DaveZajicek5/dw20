@@ -1,0 +1,16 @@
+filename = 'bagus_lib-1.21.1-13.15.0.jar'
+name = 'Bagus Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c95563b1f73aec303186ffc8e1ca15cdf578bc04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6494894
+project-id = 866533

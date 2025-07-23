@@ -1,0 +1,16 @@
+filename = 'lithosphere 1.5 21.04.2025 (1.20.5 -1.21.5).jar'
+name = 'Lithosphere'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38cae08d32052d1dcfc2dc045e1c40f6d9d59ce8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6448829
+project-id = 995122

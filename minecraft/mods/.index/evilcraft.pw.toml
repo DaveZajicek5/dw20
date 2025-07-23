@@ -1,0 +1,16 @@
+filename = 'evilcraft-1.21.1-neoforge-1.2.71.jar'
+name = 'EvilCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '32411d1dc1f1c48fe317868b8471c43a2dc65d34'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6519284
+project-id = 74610

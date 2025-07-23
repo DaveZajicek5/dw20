@@ -1,0 +1,16 @@
+filename = 'ironfurnaces-neoforge-1.21.1-4.2.6.jar'
+name = 'Iron Furnaces'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd30d0903c86c9589d1f06ef97172b60f977a13d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5779819
+project-id = 237664
